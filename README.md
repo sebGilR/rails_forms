@@ -1,24 +1,35 @@
-# README
+# Forms in Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> This is a rails practice forms project.
 
-Things you may want to cover:
+![screenshot](public/screenshot.png)
 
-* Ruby version
+## Built With
 
-* System dependencies
+- Ruby 2.7.0
+- Rails 5.2.3
 
-* Configuration
 
-* Database creation
+## Authors
 
-* Database initialization
+👤 **Sebastian Gil Rodriguez**
 
-* How to run the test suite
+- Github: [@sebGilR](https://github.com/sebGilR)
+- Twitter: [@sebGilR](https://twitter.com/sebGilR)
+- Linkedin: [linkedin](https://www.linkedin.com/in/sebastiangilrodriguez)
 
-* Services (job queues, cache servers, search engines, etc.)
+👤 **Xochitl Selene Flores Perez**
 
-* Deployment instructions
+- Github: [@enelesmai](https://github.com/enelesmai)
+- Twitter: [@enelesmai](https://twitter.com/enelesmai)
+- Linkedin: [xochitlselene](https://www.linkedin.com/in/xochitlselene)
 
-* ...
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/sebGilR/blogger_rails/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
