@@ -1,6 +1,6 @@
 # Forms in Rails
 
-> This is a rails practice forms project.
+> This is a Ruby on Rails practice forms project.
 
 ![screenshot](public/screenshot.png)
 
